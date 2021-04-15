@@ -1,0 +1,9 @@
+[07-Nov-2020 06:28:28 UTC] PHP Warning:  session_start(): open(/home1/moryabh/tmp/sess_2ddb8fe324b62db72f2df4922e17d295, O_RDWR) failed: No such file or directory (2) in /home1/moryabhog/public_html/beta/admin/index.php on line 2
+[07-Nov-2020 06:28:28 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /home1/moryabh/tmp) in /home1/moryabhog/public_html/beta/admin/index.php on line 2
+[07-Nov-2020 06:29:19 UTC] PHP Warning:  session_start(): open(/home1/moryabh/tmp/sess_e2f4dbcd278e1768787a015772be5883, O_RDWR) failed: No such file or directory (2) in /home1/moryabhog/public_html/beta/admin/index.php on line 2
+[07-Nov-2020 06:29:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /home1/moryabh/tmp) in /home1/moryabhog/public_html/beta/admin/index.php on line 2
+[25-Nov-2020 12:08:35 UTC] PHP Warning:  unlink(../media/team/03.png): No such file or directory in /home1/moryabhog/public_html/admin/teamedit.php on line 72
+[25-Nov-2020 12:09:18 UTC] PHP Warning:  unlink(../media/team/04.png): No such file or directory in /home1/moryabhog/public_html/admin/teamedit.php on line 72
+[25-Nov-2020 13:00:02 UTC] PHP Warning:  unlink(../media/testimonial/logo.png): No such file or directory in /home1/moryabhog/public_html/admin/testimonialsedit.php on line 75
+[25-Nov-2020 13:00:02 UTC] PHP Warning:  move_uploaded_file(../media/testimonial/634991.jpeg): failed to open stream: No such file or directory in /home1/moryabhog/public_html/admin/testimonialsedit.php on line 76
+[25-Nov-2020 13:00:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRfNloF' to '../media/testimonial/634991.jpeg' in /home1/moryabhog/public_html/admin/testimonialsedit.php on line 76
